@@ -1,0 +1,19 @@
+{
+    "name": "laravelmenu/laravel-menu",
+    "description": "This will create custom drag and drop laravel menu",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dhairya Ghodasara",
+            "email": "dghodasara@argusoft.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+          "LaravelMenu\\Menu\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
